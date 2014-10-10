@@ -5,7 +5,7 @@
 	$funcs= new Functions();
 	$table_name = "";  // user-defined
 	$username_field ="username"; // user-defined
-	$password_field = "password"; // user-defined
+	$password_field = "password"; // user-defined (jkjkk)
 	
 	$username = addslashes($_REQUEST['username']);
 	$password = addslashes($_REQUEST['$password']);
